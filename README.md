@@ -2,6 +2,8 @@
 
 MIT xPro REACT Week 3 - Storing Form Data
 
+[formik examples and sandbox](https://formik.org/docs/examples/basic)
+
 Storing Form Data
 When you created forms with HTML and React standalone this week, the form data was only saved temporarily within the browser. If you want to use that data again, you need to send it to a database where it can be stored. To communicate with the database, you need to go through the server. Let’s examine the relationship between the client, server, and database to help you understand this workflow. 
 
